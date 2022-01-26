@@ -380,7 +380,7 @@ class Gameposition(object):
 
 
 
-# image = "tests/4O_and_3X.jpg"
+# image = "images/4O_and_3X.jpg"
 # gameboard = Gameboard.detect_game_board(image, debug=True)
 # status = gameboard.status()
 # print(status)
